@@ -1,6 +1,6 @@
 # Jack Jona's Project Showcase
 
-A showcase for my projects built with Gatsby.
+A showcase website for my projects built with Gatsby.
 
 ## Software & Resources
 
