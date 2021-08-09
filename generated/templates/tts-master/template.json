@@ -1,0 +1,24 @@
+
+{
+  "id": "tts",
+  "title": "Text To Speech (TTS)",
+  "description": "This is a text to speech emulator built with React and the VoiceRSS API and can also be installed as a PWA.",
+  "author": "Jack Jona",
+  "ssg": [""],
+  "cms": ["React"],
+  "gatsby": { "version": 2, "type": "website" },
+  "license": "GPL3",
+  "github": {
+    "branch": "master",
+    "owner": "Jack Jona",
+    "repo": "tts",
+    "readmeContent": "This is a text to speech emulator built with React and the VoiceRSS API. It takes text that you type and converts it into a voice of your choosing that can also be installed as a PWA (Progressive Web Application)."
+  },
+  "demoUrl": "https://tts.jackjona.live/",
+  "repoUrl": "https://github.com/jackjona123/tts",
+  "starsCount": 0,
+  "forksCount": 0,
+  "openIssuesCount": 0,
+  "lastCommitDate": "2021-01-26T06:49:40Z",
+  "createdAt": "2018-06-02T19:41:22Z"
+}

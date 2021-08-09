@@ -1,0 +1,24 @@
+
+{
+  "id": "treeplanters",
+  "title": "TreePlanters",
+  "description": "A Gatsby site to help inform and give people a way to help the environment through tree planting.",
+  "author": "Jack Jona",
+  "ssg": [""],
+  "cms": ["Gatsby"],
+  "gatsby": { "version": 2, "type": "website" },
+  "license": "GPL3",
+  "github": {
+    "branch": "master",
+    "owner": "Jack Jona",
+    "repo": "treeplanters",
+    "readmeContent": "A Gatsby site to help inform and give people a way to help the environment through tree planting."
+  },
+  "demoUrl": "https://treeplanters.jackjona.live/",
+  "repoUrl": "https://github.com/jackjona123/treeplanters",
+  "starsCount": 0,
+  "forksCount": 0,
+  "openIssuesCount": 0,
+  "lastCommitDate": "2021-01-26T06:49:40Z",
+  "createdAt": "2018-06-02T19:41:22Z"
+}

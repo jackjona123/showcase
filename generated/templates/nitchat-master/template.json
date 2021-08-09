@@ -1,0 +1,24 @@
+
+{
+  "id": "nitchat",
+  "title": "Nitchat",
+  "description": "NitChat is a real-time chat application built with React.",
+  "author": "Jack Jona",
+  "ssg": [""],
+  "cms": ["React"],
+  "gatsby": { "version": 2, "type": "website" },
+  "license": "GPL3",
+  "github": {
+    "branch": "master",
+    "owner": "Jack Jona",
+    "repo": "nitchat",
+    "readmeContent": "NitChat is a real-time chat application built with React."
+  },
+  "demoUrl": "https://chat.jackjona.live/",
+  "repoUrl": "https://github.com/jackjona123/nitchat",
+  "starsCount": 0,
+  "forksCount": 0,
+  "openIssuesCount": 0,
+  "lastCommitDate": "2021-01-26T06:49:40Z",
+  "createdAt": "2018-06-02T19:41:22Z"
+}

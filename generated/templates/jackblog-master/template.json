@@ -1,0 +1,24 @@
+
+{
+  "id": "jackblog",
+  "title": "Jack Blog",
+  "description": "My Blog Built With Gatsby",
+  "author": "Jack Jona",
+  "ssg": [""],
+  "cms": ["Gatsby","Markdown"],
+  "gatsby": { "version": 2, "type": "website" },
+  "license": "GPL3",
+  "github": {
+    "branch": "master",
+    "owner": "Jack Jona",
+    "repo": "jackblog",
+    "readmeContent": "My Blog Built With Gatsby"
+  },
+  "demoUrl": "https://blog.jackjona.live/",
+  "repoUrl": "https://github.com/jackjona123/jackblog",
+  "starsCount": 0,
+  "forksCount": 0,
+  "openIssuesCount": 0,
+  "lastCommitDate": "2021-01-26T06:49:40Z",
+  "createdAt": "2018-06-02T19:41:22Z"
+}

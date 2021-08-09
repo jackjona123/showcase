@@ -1,0 +1,24 @@
+
+{
+  "id": "whatsapp-clone",
+  "title": "WhatsApp Clone",
+  "description": "My WhatsApp Clone Built With React.",
+  "author": "Jack Jona",
+  "ssg": [""],
+  "cms": ["React"],
+  "gatsby": { "version": 2, "type": "website" },
+  "license": "GPL3",
+  "github": {
+    "branch": "master",
+    "owner": "Jack Jona",
+    "repo": "whatsapp-clone",
+    "readmeContent": "My WhatsApp Clone Built With React"
+  },
+  "demoUrl": "https://whatsapp-clone.jackjona.live/",
+  "repoUrl": "https://github.com/jackjona123/whatsapp-clone",
+  "starsCount": 0,
+  "forksCount": 0,
+  "openIssuesCount": 0,
+  "lastCommitDate": "2021-01-26T06:49:40Z",
+  "createdAt": "2018-06-02T19:41:22Z"
+}
