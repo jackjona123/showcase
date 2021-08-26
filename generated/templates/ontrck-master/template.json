@@ -1,0 +1,24 @@
+
+{
+  "id": "ontrck",
+  "title": "OnTrck",
+  "description": "OnTrck - A website built with Gatsby for an internal workspace communication application.",
+  "author": "Jack Jona",
+  "ssg": [""],
+  "cms": ["Gatsby"],
+  "gatsby": { "version": 2, "type": "website" },
+  "license": "GPL3",
+  "github": {
+    "branch": "master",
+    "owner": "Jack Jona",
+    "repo": "ontrck",
+    "readmeContent": "OnTrck - A website built with Gatsby for an internal workspace communication application."
+  },
+  "demoUrl": "https://ontrck.jackjona.live",
+  "repoUrl": "https://github.com/jackjona123/ontrck",
+  "starsCount": 0,
+  "forksCount": 0,
+  "openIssuesCount": 0,
+  "lastCommitDate": "2021-01-26T06:49:40Z",
+  "createdAt": "2018-06-02T19:41:22Z"
+}
