@@ -36,7 +36,7 @@ async function getGithubInfos({ owner, repo }) {
 }
 
 async function capture(template) {
-  const dest = `generated/templates/${template.id}`
+  const dest = `generated/website/${template.id}`
   const screenshotExist = await pathExists(path.join(dest, 'screenshot.jpg'))
   if (screenshotExist) return null
   return new Pageres({
@@ -69,7 +69,7 @@ async function generateFromFile(file) {
   const { owner, name: repo } = gh(github)
   const branch = specifiedBranch || 'master'
   const id = getId({ owner, repo, branch })
-  const manifest = `generated/templates/${id}/template.json`
+  const manifest = `generated/website/${id}/template.json`
 
   const manifestExists = await pathExists(manifest)
   const name = path.basename(file, '.md')
@@ -106,7 +106,7 @@ async function generateFromFile(file) {
 }
 
 async function generateAll() {
-  const files = await glob('content/templates/*.md')
+  const files = await glob('content/website/*.md')
   const chunks = splitInChunks(files, 5)
   // eslint-disable-next-line no-restricted-syntax
   for (const chunkFiles of chunks) {

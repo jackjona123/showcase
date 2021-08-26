@@ -16,7 +16,7 @@ exports.onCreateNode = ({ getNode, node, actions }) => {
     createNodeField({
       name: 'slug',
       node,
-      value: `/templates/${slugify(node.title).toLowerCase()}`,
+      value: `/website/${slugify(node.title).toLowerCase()}`,
     })
   }
 
@@ -62,7 +62,7 @@ exports.createPages = async ({ graphql, actions }) => {
   result.data.allMdx.edges.forEach(({ node }) => {
     createPage({
       path: node.fields.slug,
-      component: require.resolve('./src/templates/mdx.js'),
+      component: require.resolve('./src/website/mdx.js'),
       context: {},
     })
   })
@@ -71,7 +71,7 @@ exports.createPages = async ({ graphql, actions }) => {
   result.data.allTemplate.edges.forEach(({ node }) => {
     createPage({
       path: node.fields.slug,
-      component: require.resolve('./src/templates/template.js'),
+      component: require.resolve('./src/website/template.js'),
       context: {},
     })
   })
