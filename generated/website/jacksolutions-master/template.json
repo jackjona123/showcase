@@ -1,0 +1,24 @@
+
+{
+  "id": "jacksolutions",
+  "title": "Jack Solutions",
+  "description": "Jack Solutions Website Built With Wordpress.",
+  "author": "Jack Jona",
+  "ssg": [""],
+  "cms": ["Wordpress"],
+  "gatsby": { "version": 2, "type": "website" },
+  "license": "GPL3",
+  "github": {
+    "branch": "master",
+    "owner": "Jack Jona",
+    "repo": "jacksolutions",
+    "readmeContent": "Jack Solutions Website Built With Wordpress."
+  },
+  "demoUrl": "https://solutions.jackjona.live/",
+  "repoUrl": "https://github.com/jackjona123/jacksolutions",
+  "starsCount": 0,
+  "forksCount": 0,
+  "openIssuesCount": 0,
+  "lastCommitDate": "2021-01-26T06:49:40Z",
+  "createdAt": "2018-06-02T19:41:22Z"
+}

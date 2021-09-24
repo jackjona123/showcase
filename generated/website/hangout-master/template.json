@@ -1,0 +1,24 @@
+
+{
+  "id": "hangout",
+  "title": "Jack Jona's Hangout",
+  "description": "The official website for my hangout.",
+  "author": "Jack Jona",
+  "ssg": [""],
+  "cms": ["Gatsby"],
+  "gatsby": { "version": 2, "type": "website" },
+  "license": "GPL3",
+  "github": {
+    "branch": "master",
+    "owner": "Jack Jona",
+    "repo": "hangout",
+    "readmeContent": "The official website for my hangout."
+  },
+  "demoUrl": "https://hangout.jackjona.live",
+  "repoUrl": "https://github.com/jackjona123/hangout",
+  "starsCount": 0,
+  "forksCount": 0,
+  "openIssuesCount": 0,
+  "lastCommitDate": "2021-01-26T06:49:40Z",
+  "createdAt": "2018-06-02T19:41:22Z"
+}

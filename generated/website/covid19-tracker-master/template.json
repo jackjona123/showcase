@@ -1,0 +1,24 @@
+
+{
+  "id": "covid19-tracker",
+  "title": "Covid-19 Tracker",
+  "description": "A website built with React that tracks COVID-19 cases, recoveries, and deaths around the world.",
+  "author": "Jack Jona",
+  "ssg": [""],
+  "cms": ["React"],
+  "gatsby": { "version": 2, "type": "website" },
+  "license": "GPL3",
+  "github": {
+    "branch": "master",
+    "owner": "Jack Jona",
+    "repo": "covid19-tracker",
+    "readmeContent": "A website built with React that tracks COVID-19 cases, recoveries, and deaths around the world."
+  },
+  "demoUrl": "https://covid.jackjona.live/",
+  "repoUrl": "https://github.com/jackjona123/covid19-tracker",
+  "starsCount": 0,
+  "forksCount": 0,
+  "openIssuesCount": 0,
+  "lastCommitDate": "2021-01-26T06:49:40Z",
+  "createdAt": "2018-06-02T19:41:22Z"
+}

@@ -1,0 +1,24 @@
+
+{
+  "id": "todo",
+  "title": "To Do List",
+  "description": "A To Do List Website Built With React And Firebase.",
+  "author": "Jack Jona",
+  "ssg": [""],
+  "cms": ["React","Firebase"],
+  "gatsby": { "version": 2, "type": "website" },
+  "license": "GPL3",
+  "github": {
+    "branch": "master",
+    "owner": "Jack Jona",
+    "repo": "todo",
+    "readmeContent": "A To Do List Website Built With React And Firebase."
+  },
+  "demoUrl": "https://todo.jackjona.live/",
+  "repoUrl": "https://github.com/jackjona123/todo",
+  "starsCount": 0,
+  "forksCount": 0,
+  "openIssuesCount": 0,
+  "lastCommitDate": "2021-01-26T06:49:40Z",
+  "createdAt": "2018-06-02T19:41:22Z"
+}

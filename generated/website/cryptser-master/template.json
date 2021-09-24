@@ -1,0 +1,23 @@
+{
+  "id": "cryptser",
+  "title": "Cryptser",
+  "description": "Cryptser - A crypto website.",
+  "author": "Jack Jona",
+  "ssg": [""],
+  "cms": ["HTML"],
+  "gatsby": { "version": 2, "type": "website" },
+  "license": "GPL3",
+  "github": {
+    "branch": "master",
+    "owner": "Jack Jona",
+    "repo": "cryptser",
+    "readmeContent": "Cryptser - A crypto website."
+  },
+  "demoUrl": "https://cryptser.jackjona.live",
+  "repoUrl": "https://github.com/jackjona123/cryptser",
+  "starsCount": 0,
+  "forksCount": 0,
+  "openIssuesCount": 0,
+  "lastCommitDate": "2021-01-26T06:49:40Z",
+  "createdAt": "2018-06-02T19:41:22Z"
+}

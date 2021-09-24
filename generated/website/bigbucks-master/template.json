@@ -1,0 +1,24 @@
+
+{
+  "id": "bigbucks",
+  "title": "BigBucks",
+  "description": "BigBucks - This is a website built with React",
+  "author": "Jack Jona",
+  "ssg": [""],
+  "cms": ["React"],
+  "gatsby": { "version": 2, "type": "website" },
+  "license": "GPL3",
+  "github": {
+    "branch": "master",
+    "owner": "Jack Jona",
+    "repo": "bigbucks",
+    "readmeContent": "BigBucks - This is a website built with React"
+  },
+  "demoUrl": "https://credit.jackjona.live/",
+  "repoUrl": "https://github.com/jackjona123/bigbucks",
+  "starsCount": 0,
+  "forksCount": 0,
+  "openIssuesCount": 0,
+  "lastCommitDate": "2021-01-26T06:49:40Z",
+  "createdAt": "2018-06-02T19:41:22Z"
+}

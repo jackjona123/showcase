@@ -1,0 +1,26 @@
+
+{
+  "id": "modernapparel",
+  "title": "Modern Apparel",
+  "description": "Modern Apparel Is An Ecommerce Site. ",
+  "author": "Jack Jona",
+  "ssg": [""],
+  "cms": ["Wordpress"],
+  "gatsby": { "version": 2, "type": "website" },
+  "license": "GPL3",
+  "github": {
+    "branch": "master",
+    "owner": "Jack Jona",
+    "repo": "modernapparel",
+    "readmeContent": "Modern Apparel is a static Ecommerce website. The static site has no payment/cart functionality. However, the [dynamic website](https://www.modernapparel.ga) uses Wordpress, WooCommerce and Stripe to allow payment and cart functionality. "
+  },
+  "demoUrl": "https://www.modernapparel.ga",
+  "repoUrl": "https://github.com/jackjona123/modernapparel",
+  "starsCount": 0,
+  "forksCount": 0,
+  "openIssuesCount": 0,
+  "lastCommitDate": "2021-01-26T06:49:40Z",
+  "createdAt": "2018-06-02T19:41:22Z"
+}
+
+

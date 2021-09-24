@@ -1,0 +1,24 @@
+
+{
+  "id": "jack-travels",
+  "title": "Jack Travels",
+  "description": "Jack Travels Website Built With React",
+  "author": "Jack Jona",
+  "ssg": [""],
+  "cms": ["React"],
+  "gatsby": { "version": 2, "type": "website" },
+  "license": "GPL3",
+  "github": {
+    "branch": "master",
+    "owner": "Jack Jona",
+    "repo": "jack-travels",
+    "readmeContent": "Jack Travels Website Built With React"
+  },
+  "demoUrl": "https://travel.jackjona.live/",
+  "repoUrl": "https://github.com/jackjona123/jack-travels",
+  "starsCount": 0,
+  "forksCount": 0,
+  "openIssuesCount": 0,
+  "lastCommitDate": "2021-01-26T06:49:40Z",
+  "createdAt": "2018-06-02T19:41:22Z"
+}

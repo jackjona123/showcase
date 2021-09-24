@@ -1,0 +1,24 @@
+
+{
+  "id": "react-v2-master",
+  "title": "Personal Website-v2",
+  "description": "My Alternative Website Buit With React",
+  "author": "Jack Jona",
+  "ssg": [""],
+  "cms": ["React"],
+  "gatsby": { "version": 2, "type": "website" },
+  "license": "GPL3",
+  "github": {
+    "branch": "master",
+    "owner": "Jack Jona",
+    "repo": "personalwebsite",
+    "readmeContent": "My Alternative Personal Website. This is in my personal website repo but in the [react-v2] branch"
+  },
+  "demoUrl": "https://alt.jackjona.live/",
+  "repoUrl": "https://github.com/jackjona123/personalwebsite/tree/react-v2",
+  "starsCount": 0,
+  "forksCount": 0,
+  "openIssuesCount": 0,
+  "lastCommitDate": "2021-01-26T06:49:40Z",
+  "createdAt": "2018-06-02T19:41:22Z"
+}

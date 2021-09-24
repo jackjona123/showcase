@@ -1,0 +1,24 @@
+
+{
+  "id": "pizza4all",
+  "title": "Pizza4All",
+  "description": "Pizza4All - This is a website for a pizza restaurant built with React & Styled Components",
+  "author": "Jack Jona",
+  "ssg": [""],
+  "cms": ["React"],
+  "gatsby": { "version": 2, "type": "website" },
+  "license": "GPL3",
+  "github": {
+    "branch": "master",
+    "owner": "Jack Jona",
+    "repo": "pizza4all",
+    "readmeContent": "Pizza4All - This is a website for a pizza restaurant built with React & Styled Components"
+  },
+  "demoUrl": "https://pizza4all.jackjona.live/",
+  "repoUrl": "https://github.com/jackjona123/pizza4all",
+  "starsCount": 0,
+  "forksCount": 0,
+  "openIssuesCount": 0,
+  "lastCommitDate": "2021-01-26T06:49:40Z",
+  "createdAt": "2018-06-02T19:41:22Z"
+}

@@ -1,0 +1,24 @@
+
+{
+  "id": "cosflix",
+  "title": "Cosflix",
+  "description": "A Netflix Inspired React Project",
+  "author": "Jack Jona",
+  "ssg": [""],
+  "cms": ["React","Firebase"],
+  "gatsby": { "version": 2, "type": "website" },
+  "license": "GPL3",
+  "github": {
+    "branch": "master",
+    "owner": "Jack Jona",
+    "repo": "cosflix",
+    "readmeContent": "A Netflix Inspired React Project"
+  },
+  "demoUrl": "https://cosflix.jackjona.live/",
+  "repoUrl": "https://github.com/jackjona123/cosflix",
+  "starsCount": 0,
+  "forksCount": 0,
+  "openIssuesCount": 0,
+  "lastCommitDate": "2021-01-26T06:49:40Z",
+  "createdAt": "2018-06-02T19:41:22Z"
+}

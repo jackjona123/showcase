@@ -1,0 +1,26 @@
+
+{
+  "id": "amzn",
+  "title": "amzn",
+  "description": "amzn - A crypto website.",
+  "author": "Jack Jona",
+  "ssg": [""],
+  "cms": ["Next"],
+  "gatsby": { "version": 2, "type": "website" },
+  "license": "GPL3",
+  "github": {
+    "branch": "master",
+    "owner": "Jack Jona",
+    "repo": "amzn",
+    "readmeContent": "amzn - A crypto website."
+  },
+  "demoUrl": "https://www.amzn-clone.g",
+  "repoUrl": "https://github.com/jackjona123/amzn",
+  "starsCount": 0,
+  "forksCount": 0,
+  "openIssuesCount": 0,
+  "lastCommitDate": "2021-01-26T06:49:40Z",
+  "createdAt": "2018-06-02T19:41:22Z"
+}
+
+
