@@ -1,7 +1,8 @@
+
 {
-  "id": "4allcreative",
-  "title": "4AllCreative",
-  "description": "4All Creative Is A Digital Marketing Website Built With React & Styled Components.",
+  "id": "blueprint-design",
+  "title": "Blueprint Design",
+  "description": "Blueprint Design - A Web Design Agency. An agency website built with React.",
   "author": "Jack Jona",
   "ssg": [""],
   "cms": ["React"],
@@ -10,15 +11,14 @@
   "github": {
     "branch": "master",
     "owner": "Jack Jona",
-    "repo": "4allcreative",
-    "readmeContent": "4All Creative Is A Digital Marketing Website Built With React & Styled Components."
+    "repo": "Blueprint Design",
+    "readmeContent": "Blueprint Design - A Web Design Agency. An agency website built with React."
   },
   "demoUrl": "https://marketing.jackjona.live/",
-  "repoUrl": "https://github.com/jackjona123/4all-creative",
+  "repoUrl": "https://github.com/jackjona123/blueprint-design",
   "starsCount": 0,
   "forksCount": 0,
   "openIssuesCount": 0,
   "lastCommitDate": "2021-01-26T06:49:40Z",
   "createdAt": "2018-06-02T19:41:22Z"
 }
-

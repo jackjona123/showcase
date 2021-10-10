@@ -1,8 +1,8 @@
 
 {
   "id": "amzn",
-  "title": "amzn",
-  "description": "amzn - A crypto website.",
+  "title": "AMZN",
+  "description": "AMZN - An Amazon Clone Built With Next.js.",
   "author": "Jack Jona",
   "ssg": [""],
   "cms": ["Next"],
@@ -12,9 +12,9 @@
     "branch": "master",
     "owner": "Jack Jona",
     "repo": "amzn",
-    "readmeContent": "amzn - A crypto website."
+    "readmeContent": "AMZN - An Amazon Clone Built With Next.js."
   },
-  "demoUrl": "https://www.amzn-clone.g",
+  "demoUrl": "https://www.amzn-clone.ga",
   "repoUrl": "https://github.com/jackjona123/amzn",
   "starsCount": 0,
   "forksCount": 0,

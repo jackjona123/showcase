@@ -11,9 +11,14 @@ A showcase website for my projects built with Gatsby.
 
 ## Changelog
 
-**Note:** Screenshots take with [Site-Shot](https://www.site-shot.com) *Original Size:* 2048 x 1536 pixels
-
 ### Changes:
+
+- Fixed some broken links. 
+- Added new Modern Apparel Screenshot
+- Added Blueprint Design Website
+- Added `display: none;` to mobile header (it was overlapping other elements on scroll)
+
+### Notes: Screenshots take with [Site-Shot](https://www.site-shot.com) *Original Size:* 2048 x 1536 pixels
 
 - Added new sites (deployments.jackjona.ga was the lastest)
 
@@ -46,9 +51,3 @@ A showcase website for my projects built with Gatsby.
   height: 0;
   z-index: 200;
   backdrop-filter: blur(8px);
-
-- Added an HTML Icon
-
-- Changed link in hero section from http://github.com/jackjona123 to https://github.com/jackjona123?tab=repositories when clicking the text "Source Code"
-
-- Changed the icon for Just Relax card from Github to HTML

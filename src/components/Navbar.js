@@ -5,7 +5,6 @@ import { Container } from './Container'
 import { Burger } from './Burger'
 
 export const Nav = styled.nav`
-
   padding: 0;
   margin: 0 auto;
   position: fixed;
@@ -17,6 +16,10 @@ export const Nav = styled.nav`
   height: 0;
   z-index: 200;
   backdrop-filter: blur(8px);
+
+  @media (max-width: 752px) {
+    display: none;
+  }
 
   ${up(
     'md',
@@ -47,7 +50,6 @@ export const NavbarBrandLink = styled.a`
 
 export const NavbarBrand = styled.div`
   margin: 0;
-
   > svg {
     width: 220;
   }
