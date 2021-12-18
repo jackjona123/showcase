@@ -5,7 +5,7 @@
   "description": "My Alternative Website Buit With React",
   "author": "Jack Jona",
   "ssg": [""],
-  "cms": ["React"],
+  "cms": ["React"], 
   "gatsby": { "version": 2, "type": "website" },
   "license": "GPL3",
   "github": {
@@ -14,7 +14,7 @@
     "repo": "personalwebsite",
     "readmeContent": "My Alternative Personal Website. This is in my personal website repo but in the [react-v2] branch"
   },
-  "demoUrl": "https://alt.jackjona.live/",
+  "demoUrl": "https://v2.jackjona.ga/",
   "repoUrl": "https://github.com/jackjona123/personalwebsite/tree/react-v2",
   "starsCount": 0,
   "forksCount": 0,

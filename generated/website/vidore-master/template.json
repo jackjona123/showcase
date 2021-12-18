@@ -1,8 +1,8 @@
 
 {
-  "id": "jacksolutions",
-  "title": "Jack Solutions",
-  "description": "Jack Solutions Website Built With Wordpress.",
+  "id": "vidore",
+  "title": "Vidore",
+  "description": "A Modern Video Streaming Site Built Using HTTP Live Steaming (HLS).",
   "author": "Jack Jona",
   "ssg": [""],
   "cms": ["Wordpress"],
@@ -11,11 +11,11 @@
   "github": {
     "branch": "master",
     "owner": "Jack Jona",
-    "repo": "jacksolutions",
-    "readmeContent": "Jack Solutions Website Built With Wordpress."
+    "repo": "vidore",
+    "readmeContent": "A Modern Video Streaming Site Built Using HTTP Live Steaming (HLS)."
   },
-  "demoUrl": "https://www.jacksolutions.cf",
-  "repoUrl": "https://github.com/jackjona123/jacksolutions",
+  "demoUrl": "https://www.vidore.ga",
+  "repoUrl": "https://github.com/jackjona123/vidore",
   "starsCount": 0,
   "forksCount": 0,
   "openIssuesCount": 0,

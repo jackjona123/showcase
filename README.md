@@ -9,20 +9,17 @@ A showcase website for my projects built with Gatsby.
 - Gatsby Plugins
 - Styled Components
 
-## Changelog
+## Changelog:
 
-### Changes:
+### Changes
 
-- Fixed some broken links. 
-- Added new Modern Apparel Screenshot
-- Added Blueprint Design Website
-- Added `display: none;` to mobile header (it was overlapping other elements on scroll)
+- Added new sites (www.vidore.ga was the lastest)
+- Fixed all broken live site demo links. 
+- Updated Modern Apparel Screenshot
 
-### Notes: Screenshots take with [Site-Shot](https://www.site-shot.com) *Original Size:* 2048 x 1536 pixels
+#### Notes: Screenshots take with [Site-Shot](https://www.site-shot.com) *Original Size:* 2048 x 1536 pixels
 
-- Added new sites (deployments.jackjona.ga was the lastest)
-
-- Changed ```Navbar.js``` to fix header transparency bug on mobile screens
+- ```Navbar.js``` Change
 
 *From:*
 

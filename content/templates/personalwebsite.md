@@ -1,7 +1,7 @@
 ---
 title: Personal Website
 github: https://github.com/jackjona123/personalwebsite
-demo: https://www.jackjona.live/
+demo: https://www.jackjona.me/
 author: Jack Jona
 ssg:
   - Gatsby

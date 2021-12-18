@@ -1,6 +1,6 @@
 /* eslint-env node */
 
-const defaultSiteUrl = 'https://showcase.jackjona.live'
+const defaultSiteUrl = 'https://showcase.jackjona.me'
 
 const {
   NODE_ENV,

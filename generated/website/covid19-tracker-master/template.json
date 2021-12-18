@@ -14,7 +14,7 @@
     "repo": "covid19-tracker",
     "readmeContent": "A website built with React that tracks COVID-19 cases, recoveries, and deaths around the world."
   },
-  "demoUrl": "https://covid.jackjona.live/",
+  "demoUrl": "https://covid19-tracker-dp4.pages.dev",
   "repoUrl": "https://github.com/jackjona123/covid19-tracker",
   "starsCount": 0,
   "forksCount": 0,

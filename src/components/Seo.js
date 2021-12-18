@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet'
 import { Location } from '@reach/router'
 import socialImage from '../images/social.jpg'
 
-const canonicalUrl = 'https://showcase.jackjona.live'
+const canonicalUrl = 'https://showcase.jackjona.me'
 const defaultTitle = 'Jack Jona Project Showcase'
 const defaultDescription =
   'A showcase for my projects built with Gatsby.'

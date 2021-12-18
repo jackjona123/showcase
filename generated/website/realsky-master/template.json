@@ -1,7 +1,7 @@
 
 {
-    "id": "weatherpwa-master",
-    "title": "WeatherPWA",
+    "id": "realsky-master",
+    "title": "RealSky",
     "description": "A Weather Progress Web Application (PWA). Built With React.",
     "author": "Jack Jona",
     "ssg": [""],
@@ -11,11 +11,11 @@
     "github": {
       "branch": "master",
       "owner": "Jack Jona",
-      "repo": "weatherpwa",
+      "repo": "realsky",
       "readmeContent": "A Weather Progress Web Application (PWA). Built With React."
     },
-    "demoUrl": "https://weather.jackjona.live/",
-    "repoUrl": "https://github.com/jackjona123/WeatherPWA",
+    "demoUrl": "https://www.realsky.ga",
+    "repoUrl": "https://github.com/jackjona123/RealSky",
     "starsCount": 0,
     "forksCount": 0,
     "openIssuesCount": 0,
