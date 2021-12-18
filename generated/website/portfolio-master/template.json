@@ -1,20 +1,20 @@
 
 {
-  "id": "personalwebsite-master",
-  "title": "Personal Website",
-  "description": "My Personal Website Buit With Gatsby",
+  "id": "portfolio-v4",
+  "title": "Personal Website-v4",
+  "description": "My Personal Website Buit With React",
   "author": "Jack Jona",
   "ssg": [""],
-  "cms": ["Gatsby"],
+  "cms": ["React"],
   "gatsby": { "version": 2, "type": "website" },
   "license": "GPL3",
   "github": {
     "branch": "master",
     "owner": "Jack Jona",
-    "repo": "personalwebsite",
+    "repo": "portfolio",
     "readmeContent": "My Personal Website"
   },
-  "demoUrl": "https://www.jackjona.live/",
+  "demoUrl": "https://www.jackjona.me/",
   "repoUrl": "https://github.com/jackjona123/personalwebsite",
   "starsCount": 0,
   "forksCount": 0,

@@ -1,7 +1,7 @@
 
 {
-  "id": "spotify-clone",
-  "title": "Spotify-Clone",
+  "id": "spotify-alt",
+  "title": "Spotify-Alt",
   "description": "A Spotify Inspired React Music Player",
   "author": "Jack Jona",
   "ssg": [""],
@@ -11,11 +11,11 @@
   "github": {
     "branch": "master",
     "owner": "Jack Jona",
-    "repo": "Spotify-Clone",
-    "readmeContent": "A Spotify Inspired React Music Player"
+    "repo": "Spotify-alt",
+    "readmeContent": "This is an alternative Spotify front end built with React and the Spotify API."
   },
-  "demoUrl": "https://spotify-clone.jackjona.live/",
-  "repoUrl": "https://github.com/jackjona123/Spotify-Clone",
+  "demoUrl": "https://spotify-alt.jackjona.live/",
+  "repoUrl": "https://github.com/jackjona123/Spotify-alt",
   "starsCount": 0,
   "forksCount": 0,
   "openIssuesCount": 0,
